@@ -13,9 +13,9 @@ To report a group of addresses, [create an issue](https://github.com/connext/com
 - Reports will be reviewed on a first-come, first serve basis.
 - Reports must contain at least 10 addresses still in `TODO - filename` at the time of review.
 - The methodology and reasoning must be well explained and easy to understand.
-- Methodology that has a non-negligible chance of eliminating legitimate users will not be considered. When in doubt, we opt for “this is legit usage”.
+- Methodology that has a non-negligible chance of eliminating legitimate users will not be considered.
 - *Successful submissions receive 25% of the “saved” NEXT when providing a valid address.* Remaining 75% is redistributed to the rest of the eligible users.
-- Reports have to be submitted to Github before [TODO - date]
+- Reports have to be submitted to Github before [TODO - date].
 - Report acceptance / rejection is at the sole discretion of the Connext team.
 
 ## Acknowledgements
