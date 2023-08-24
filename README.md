@@ -2,7 +2,9 @@
 
 This repository allows the community to help find sybil attackers and help determine the final user allocations.
 
-The reports will be collected within this repository
+The reports will be collected within this repository.
+
+Please see [here](./CONTRACTS.md) for more information regarding relevant contracts.
 
 ## Reporting Rules
 
